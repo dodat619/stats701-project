@@ -1,0 +1,78 @@
+\begin{thebibliography}{10}
+
+\bibitem{alexander2009fast}
+{\sc Alexander, D.~H., Novembre, J., and Lange, K.}
+\newblock Fast model-based estimation of ancestry in unrelated individuals.
+\newblock {\em Genome research 19}, 9 (2009), 1655--1664.
+
+\bibitem{du1999centroidal}
+{\sc Du, Q., Faber, V., and Gunzburger, M.}
+\newblock Centroidal voronoi tessellations: Applications and algorithms.
+\newblock {\em SIAM review 41}, 4 (1999), 637--676.
+
+\bibitem{elliott2019}
+{\sc Elliott, L.~T., De~Iorio, M., Favaro, S., Adhikari, K., and Teh, Y.~W.}
+\newblock Modeling population structure under hierarchical dirichlet processes.
+\newblock {\em Bayesian Anal. 14}, 2 (06 2019), 313--339.
+
+\bibitem{Falush1567}
+{\sc Falush, D., Stephens, M., and Pritchard, J.~K.}
+\newblock Inference of population structure using multilocus genotype data:
+  Linked loci and correlated allele frequencies.
+\newblock {\em Genetics 164}, 4 (2003), 1567--1587.
+
+\bibitem{Harter2004OriginOE}
+{\sc Harter, A.~V., Gardner, K., Falush, D., Lentz, D., Bye, R., and Rieseberg,
+  L.}
+\newblock Origin of extant domesticated sunflowers in eastern north america.
+\newblock {\em Nature 430\/} (2004), 201--205.
+
+\bibitem{smartpca}
+{\sc Patterson, N., Price, A.~L., and Reich, D.}
+\newblock Population structure and eigenanalysis.
+\newblock {\em PLOS Genetics 2}, 12 (12 2006), 1--20.
+
+\bibitem{Pritchard945}
+{\sc Pritchard, J.~K., Stephens, M., and Donnelly, P.}
+\newblock Inference of population structure using multilocus genotype data.
+\newblock {\em Genetics 155}, 2 (2000), 945--959.
+
+\bibitem{Raj573}
+{\sc Raj, A., Stephens, M., and Pritchard, J.~K.}
+\newblock faststructure: Variational inference of population structure in large
+  snp data sets.
+\newblock {\em Genetics 197}, 2 (2014), 573--589.
+
+\bibitem{Rosenberg699}
+{\sc Rosenberg, N.~A., Burke, T., Elo, K., Feldman, M.~W., Freidlin, P.~J.,
+  Groenen, M. A.~M., Hillel, J., M{\"a}ki-Tanila, A., Tixier-Boichard, M.,
+  Vignal, A., Wimmers, K., and Weigend, S.}
+\newblock Empirical evaluation of genetic clustering methods using multilocus
+  genotypes from 20 chicken breeds.
+\newblock {\em Genetics 159}, 2 (2001), 699--713.
+
+\bibitem{Rosenberg2381}
+{\sc Rosenberg, N.~A., Pritchard, J.~K., Weber, J.~L., Cann, H.~M., Kidd,
+  K.~K., Zhivotovsky, L.~A., and Feldman, M.~W.}
+\newblock Genetic structure of human populations.
+\newblock {\em Science 298}, 5602 (2002), 2381--2385.
+
+\bibitem{sethuraman1994constructive}
+{\sc Sethuraman, J.}
+\newblock A constructive definition of dirichlet priors.
+\newblock {\em Statistica sinica\/} (1994), 639--650.
+
+\bibitem{HDP}
+{\sc Teh, Y.~W., Jordan, M.~I., Beal, M.~J., and Blei, D.~M.}
+\newblock Hierarchical dirichlet processes.
+\newblock {\em Journal of the American Statistical Association 101\/} (2004).
+
+\bibitem{dsn}
+{\sc Yurochkin, M., Guha, A., Sun, Y., and Nguyen, X.}
+\newblock {D}irichlet simplex nest and geometric inference.
+\newblock In {\em Proceedings of the 36th International Conference on Machine
+  Learning\/} (Long Beach, California, USA, 09--15 Jun 2019), K.~Chaudhuri and
+  R.~Salakhutdinov, Eds., vol.~97 of {\em Proceedings of Machine Learning
+  Research}, PMLR, pp.~7262--7271.
+
+\end{thebibliography}
